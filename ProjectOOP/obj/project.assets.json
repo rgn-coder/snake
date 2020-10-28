@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/regisha/Developer/snake/ProjectOOP/ProjectOOP.csproj",
-      "projectName": "ProjectOOP",
-      "projectPath": "/Users/regisha/Developer/snake/ProjectOOP/ProjectOOP.csproj",
+      "projectUniqueName": "/Users/regisha/Developer/snake/ProjectOOP/SnakeGame.csproj",
+      "projectName": "SnakeGame",
+      "projectPath": "/Users/regisha/Developer/snake/ProjectOOP/SnakeGame.csproj",
       "packagesPath": "/Users/regisha/.nuget/packages/",
       "outputPath": "/Users/regisha/Developer/snake/ProjectOOP/obj/",
       "projectStyle": "PackageReference",
