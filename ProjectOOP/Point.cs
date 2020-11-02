@@ -8,11 +8,6 @@ namespace SnakeGame
         public char sym;
 
 
-
-
-
-
-
         public Point()
         {
           
