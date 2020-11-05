@@ -11,8 +11,13 @@ namespace SnakeGame
     {
         static void Main(string[] args)
         {
-       //     Console.SetBufferSize(80, 25);
-            
+            //Console.SetBufferSize(80, 25);
+
+            Walls walls = new Walls(80, 25);
+            walls.Draw();
+
+
+
             //Рамочка
 
 
@@ -38,13 +43,18 @@ namespace SnakeGame
 
             while (true)
             {
-                if (snake.Eat(food))
+                if (walls.IsHit(snake) || snake.IsHitTail())
+                {
+                    break;
+                  
+                }
+                if(snake.Eat(food))
                 {
                     food = foodCreator.CreateFood();
                     food.Draw();
                 }
                 else
-                {
+                { 
                     snake.Move();
                 }
 

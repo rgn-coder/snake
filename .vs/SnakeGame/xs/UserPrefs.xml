@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{44D09000-521E-44D3-9CD7-B096392693A1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ProjectOOP/Program.cs">
     <Files>
-      <File FileName="ProjectOOP/Figure.cs" Line="18" Column="1" IsPinned="True" />
-      <File FileName="ProjectOOP/Point.cs" IsPinned="True" />
-      <File FileName="ProjectOOP/Program.cs" Line="41" Column="27" IsPinned="True" />
-      <File FileName="ProjectOOP/Snake.cs" IsPinned="True" />
-      <File FileName="ProjectOOP/HorizontalLines.cs" />
-      <File FileName="ProjectOOP/VerticalLines.cs" />
-      <File FileName="ProjectOOP/Direction.cs" />
-      <File FileName="ProjectOOP/FoodCreator.cs" />
+      <File FileName="ProjectOOP/Figure.cs" Line="2" Column="33" IsPinned="True" />
+      <File FileName="ProjectOOP/Point.cs" Line="9" Column="12" IsPinned="True" />
+      <File FileName="ProjectOOP/Program.cs" Line="14" Column="1" />
+      <File FileName="ProjectOOP/Snake.cs" Line="56" Column="26" />
+      <File FileName="ProjectOOP/HorizontalLines.cs" Line="1" Column="1" />
+      <File FileName="ProjectOOP/VerticalLines.cs" Line="3" Column="1" />
+      <File FileName="ProjectOOP/Direction.cs" Line="1" Column="1" />
+      <File FileName="ProjectOOP/FoodCreator.cs" Line="15" Column="28" />
+      <File FileName="ProjectOOP/walls.cs" Line="21" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
