@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
+
+
 
 namespace SnakeGame
 {
@@ -76,7 +74,7 @@ namespace SnakeGame
                     snake.HandleKey(key.Key);
                 }
                 Thread.Sleep(100);
-                snake.Move(); 
+                snake.Move();
             }
         }
 

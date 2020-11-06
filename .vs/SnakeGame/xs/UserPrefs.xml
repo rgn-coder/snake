@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{44D09000-521E-44D3-9CD7-B096392693A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectOOP/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectOOP/FoodCreator.cs">
     <Files>
-      <File FileName="ProjectOOP/Figure.cs" Line="2" Column="33" IsPinned="True" />
-      <File FileName="ProjectOOP/Point.cs" Line="9" Column="12" IsPinned="True" />
-      <File FileName="ProjectOOP/Program.cs" Line="14" Column="1" />
+      <File FileName="ProjectOOP/Figure.cs" Line="15" Column="27" IsPinned="True" />
+      <File FileName="ProjectOOP/Point.cs" Line="68" Column="1" IsPinned="True" />
+      <File FileName="ProjectOOP/Program.cs" Line="14" Column="15" />
       <File FileName="ProjectOOP/Snake.cs" Line="56" Column="26" />
       <File FileName="ProjectOOP/HorizontalLines.cs" Line="1" Column="1" />
       <File FileName="ProjectOOP/VerticalLines.cs" Line="3" Column="1" />
@@ -16,7 +16,7 @@
         <State name="__root__">
           <Node name="SnakeGame" expanded="True">
             <Node name="SnakeGame" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="FoodCreator.cs" selected="True" />
             </Node>
           </Node>
         </State>
