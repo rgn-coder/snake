@@ -1,22 +1,17 @@
-﻿<Properties StartupConfiguration="{44D09000-521E-44D3-9CD7-B096392693A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectOOP/Program.cs">
-    <Files>
-      <File FileName="ProjectOOP/Program.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProjectOOP" expanded="True">
-            <Node name="ProjectOOP" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="ProjectOOP" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ProjectOOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>ProjectOOP/ProjectOOP.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
